@@ -1,0 +1,57 @@
+*{
+    font-family: "Roboto Thin", sans-serif;
+}
+
+.title{
+    border: 2px solid #009879;
+    background: #55ceb6;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width : 75%;
+}
+
+.text{
+    border: 2px solid #0085FC;
+    background: #73abff;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    width : 75%;
+}
+
+p:hover{
+    color: #e0ffff;
+    transition: 0.5s;
+}
+
+h3:hover{
+    color: #d0fff2;
+    transition: 0.5s;
+}
+
+.text2{
+    border: 2px solid #fc0000;
+    background: #ff7373;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    width : 75%;
+}
+
+.text3{
+    border: 2px solid #fc7600;
+    background: #ffc073;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    width : 75%;
+}
